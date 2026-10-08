@@ -1,7 +1,7 @@
 // Deploy no Cloudflare Workers. Site 100% estático: a Cloudflare serve a pasta
 // public/ direto, sem código rodando e sem custo por acesso.
 {
-  "name": "nickolas-mendes",
+  "name": "projetos-desenvolvimento",
   "compatibility_date": "2026-09-01",
   "assets": {
     "directory": "./public",
