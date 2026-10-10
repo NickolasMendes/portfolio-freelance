@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://projetos-desenvolvimento.nickolas-196.workers.dev/sitemap.xml
