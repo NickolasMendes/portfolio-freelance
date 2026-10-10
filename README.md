@@ -1,6 +1,6 @@
 # Portfólio freelance
 
-Site de portfólio do Nickolas Mendes: serviços, projetos e contato. HTML e CSS puros, sem build.
+Site de portfólio do Nickolas Berg (nome profissional de Nickolas Mendes): serviços, projetos e contato. HTML e CSS puros, sem build.
 
 - `public/`: o site (página principal, `img/` com prints e `demos/` com projetos demonstrativos)
 - Deploy: Cloudflare Workers (`wrangler.jsonc`), automático a cada push na `main`
